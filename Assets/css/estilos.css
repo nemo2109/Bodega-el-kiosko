@@ -65,7 +65,15 @@ h1{
     justify-content: center;
     align-items: center;
     margin-bottom: 4.5%;
-   
 
+}
+
+.final{
+    background-color: rgb(197, 11, 11);
+    padding: 2%;
+}
+
+summary{
+    list-style: none;
 }
 
